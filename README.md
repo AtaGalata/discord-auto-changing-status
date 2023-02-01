@@ -29,7 +29,7 @@ npm i && node app
 
 # HESAP TOKENİ ALMAK İÇİN
 
-* Tarayıcı Üzerinden [discorda](https://discord.com) giriniz.
+* Tarayıcı Üzerinden [discorda](https://discord.com/app) giriniz.
 * `ctrl + shift + ı` yaparak `İnceleyi/Console'u` açınız.
 * Console a şu kodu giriniz;
 ```
