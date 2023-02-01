@@ -9,9 +9,6 @@
     <img src="https://visitcount.itsvg.in/api?id=AtaGalata1&label=Ziyaret%C3%A7i%20Say%C4%B1s%C4%B1&color=12&icon=0&pretty=false" />
   </a>
 </p>
-## ABOUT TOOL :
-
-instahack is a bash based script which is officially made to test password strength of instagram account from termux with bruteforce attack and. This tool works on both rooted Android device and Non-rooted Android device.
 
 # KURULUM ve ÇALIŞTIRMA
 
