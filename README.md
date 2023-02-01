@@ -1,1 +1,1 @@
-# discord-auto-changing-status
+# KURULUM
